@@ -56,7 +56,7 @@ This limits the ability to optimize targeting, improve efficiency, and increase 
 ---
 
 ## Tools
-Python (Pandas, NumPy), Matplotlib, Seaborn, Excel
+Python (Pandas, NumPy), Matplotlib, Seaborn
 
 ---
 
